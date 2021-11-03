@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopFor", "Lab4\LoopFor.csproj", "{FF191021-20B1-4850-9AC8-99F708B13D2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopDo-While", "LoopWhile\LoopDo-While.csproj", "{79550186-ADB7-4C38-A5AD-A2C77D627C84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopWhile", "LoopDo\LoopWhile.csproj", "{CA610128-6F9A-4946-A1E1-570569CEE20A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF191021-20B1-4850-9AC8-99F708B13D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF191021-20B1-4850-9AC8-99F708B13D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF191021-20B1-4850-9AC8-99F708B13D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF191021-20B1-4850-9AC8-99F708B13D2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79550186-ADB7-4C38-A5AD-A2C77D627C84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79550186-ADB7-4C38-A5AD-A2C77D627C84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79550186-ADB7-4C38-A5AD-A2C77D627C84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79550186-ADB7-4C38-A5AD-A2C77D627C84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA610128-6F9A-4946-A1E1-570569CEE20A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA610128-6F9A-4946-A1E1-570569CEE20A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA610128-6F9A-4946-A1E1-570569CEE20A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA610128-6F9A-4946-A1E1-570569CEE20A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C58355B9-4276-472A-912D-05F20D546379}
+	EndGlobalSection
+EndGlobal
